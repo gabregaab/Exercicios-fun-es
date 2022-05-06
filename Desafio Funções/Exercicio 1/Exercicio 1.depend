@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651846722 source:c:\users\gabriel\desktop\code blocks\desafio funções\exercicio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"exercicio1.h"
+
+1651846674 source:c:\users\gabriel\desktop\code blocks\desafio funções\exercicio 1\exercicio 1.c
+	<stdio.h>
+	<stdlib.h>
+
+1651846330 c:\users\gabriel\desktop\code blocks\desafio funções\exercicio 1\exercicio1.h
+
