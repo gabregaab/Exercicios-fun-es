@@ -1,0 +1,3 @@
+
+
+int inverterCaracter(int x);
