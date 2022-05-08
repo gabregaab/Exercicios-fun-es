@@ -1,0 +1,3 @@
+
+
+int contaDigito (int x);

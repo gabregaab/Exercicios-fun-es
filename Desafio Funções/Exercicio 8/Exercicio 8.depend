@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1652029660 source:c:\users\gabriel\desktop\fatec- ads\semestre 2\lp\exercicios-fun-es-main\desafio funções\exercicio 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"exercicio8.h"
+
+1652029516 c:\users\gabriel\desktop\fatec- ads\semestre 2\lp\exercicios-fun-es-main\desafio funções\exercicio 8\exercicio8.h
+
+1652029660 source:c:\users\gabriel\desktop\fatec- ads\semestre 2\lp\exercicios-fun-es-main\desafio funções\exercicio 8\exercicio8.c
+	<stdio.h>
+	<stdlib.h>
+
