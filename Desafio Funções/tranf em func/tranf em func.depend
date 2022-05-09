@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652050751 source:c:\users\gabriel\desktop\fatec- ads\semestre 2\lp\exercicios-fun-es-main\desafio funções\tranf em func\transf.c
+
+1652051027 source:c:\users\gabriel\desktop\fatec- ads\semestre 2\lp\exercicios-fun-es-main\desafio funções\tranf em func\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"transf.h"
+
+1652050727 c:\users\gabriel\desktop\fatec- ads\semestre 2\lp\exercicios-fun-es-main\desafio funções\tranf em func\transf.h
+
